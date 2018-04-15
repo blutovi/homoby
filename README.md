@@ -11,9 +11,9 @@
 Сайт: http://homo.by
 
 Новостная лента:<br>
-&nbsp;web: http://homo.by/eda-news.html<br>
-  rss: http://homo.by/rss.xml<br>
-  atom: http://homo.by/atom.xml<br>
+&nbsp;&nbsp;&nbsp;&nbsp;web: http://homo.by/eda-news.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;rss: http://homo.by/rss.xml<br>
+&nbsp;&nbsp;&nbsp;&nbsp;atom: http://homo.by/atom.xml<br>
 
 Каталог: http://homo.by/eda-catalog.html
 
